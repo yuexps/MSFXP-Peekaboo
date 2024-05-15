@@ -1,4 +1,4 @@
-tp @a 77 141 87
+tp @a 26 133 25
 tag @a remove cat
 tag @a add stop
 scoreboard players set @a d2 0
