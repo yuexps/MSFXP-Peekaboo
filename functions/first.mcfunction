@@ -12,3 +12,9 @@ scoreboard objectives add d2 dummy
 #创建计分板d2，用于储存死亡数据
 scoreboard objectives add d3 dummy
 #创建计分板d3，用于检测死亡状态
+setblock 0 300 0 glass
+#在坐标0 300 0放置一个玻璃
+summon armor_stand "a" 0 301 0 
+#生成一个名为“a”的盔甲架
+summon armor_stand "倒计时" 0 301 0
+#生成一个名为“倒计时”的盔甲架
