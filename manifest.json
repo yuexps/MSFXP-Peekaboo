@@ -4,7 +4,7 @@
         "description": "MSFXP躲猫猫Function行为包",
         "name": "MSFXP躲猫猫",
         "uuid": "66306b1e-d6cb-4c1e-b4dc-31520ca823eb",
-		"min_engine_version": [0, 0, 1],
+		"min_engine_version": [1, 20, 15],
         "version": [0, 0, 1]
     },
     "modules": [
