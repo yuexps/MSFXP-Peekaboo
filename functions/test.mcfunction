@@ -1,5 +1,6 @@
 #初始化所需计分板，实体（新地图请手动执行一次）
 
+say 开始初始化环境...
 scoreboard objectives add t dummy §l§a信息栏
 #创建计分板t，用于显示剩余时间信息
 scoreboard objectives setdisplay sidebar t
@@ -24,3 +25,4 @@ summon armor_stand "倒计时" 0 301 0
 #生成一个名为“倒计时”的盔甲架
 tickingarea add 0 300 0 0 300 0 实体
 #在盔甲架位置设置常加载
+say 初始化完成！
