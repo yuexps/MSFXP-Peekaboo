@@ -1,4 +1,4 @@
-#初始化所需计分板，实体
+#初始化所需计分板，实体（新地图请手动执行一次）
 
 scoreboard objectives add t dummy §l§a信息栏
 #创建计分板t，用于显示剩余时间信息
