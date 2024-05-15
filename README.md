@@ -1,6 +1,6 @@
 # Minecraft Function 行为包
 
-## 使用方法：
+## 食用方法：
 
  1.修改functions/cat/tp.mcfunction和functions/player/tp.mcfunction中的传送坐标
 
