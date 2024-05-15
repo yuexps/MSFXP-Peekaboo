@@ -9,4 +9,6 @@ scoreboard objectives add random dummy
 scoreboard objectives add d1 dummy
 #创建计分板d1，用于显示死亡统计信息
 scoreboard objectives add d2 dummy
-#创建计分板d2，用于储存
+#创建计分板d2，用于储存死亡数据
+scoreboard objectives add d3 dummy
+#创建计分板d3，用于检测死亡状态
