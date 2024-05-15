@@ -1,5 +1,6 @@
 tag @a remove stop
 effect @a clear
+gamemode 2 @a
 tag @r add cat
 function cat/effect
 function player/effect
