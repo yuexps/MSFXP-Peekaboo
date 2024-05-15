@@ -6,5 +6,5 @@ function player/effect
 function cat/tp
 function player/tp
 scoreboard players set @e[name=a] s 300
-say §b游戏开始！
-say §e @a[tag=cat] §d被选为猫！
+tellraw @a {"rawtext": [{"text": "§l§aMSFXP§r>> §b游戏开始！"}]}
+tellraw @a {"rawtext": [{"text": "§l§aMSFXP§r>> §b"},{"selector":"@a[tag=cat]"},{"text": " §d被选为猫!"}]}
