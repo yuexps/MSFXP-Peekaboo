@@ -1,4 +1,4 @@
-# Minecraft Function 行为包
+# MSFXP躲猫猫
 
 ## 食用方法：
 
