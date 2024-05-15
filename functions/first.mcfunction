@@ -18,3 +18,5 @@ summon armor_stand "a" 0 301 0
 #生成一个名为“a”的盔甲架
 summon armor_stand "倒计时" 0 301 0
 #生成一个名为“倒计时”的盔甲架
+tickingarea add 0 300 0 0 300 0 实体
+#在盔甲架位置设置常加载
