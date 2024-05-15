@@ -5,6 +5,6 @@ function cat/effect
 function player/effect
 function cat/tp
 function player/tp
-scoreboard players set @e[name=a] s 850
+scoreboard players set @e[name=a] s 300
 say §b游戏开始！
 say §e @a[tag=cat] §d被选为猫！
