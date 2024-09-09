@@ -1,5 +1,5 @@
 {
-    "format_version": 1,
+    "format_version": 2,
     "header": {
         "description": "MSFXP躲猫猫Function行为包",
         "name": "MSFXP躲猫猫",
