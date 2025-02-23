@@ -4,5 +4,7 @@ effect @a[tag=cat] speed 600 1 true
 give @a[tag=cat] spyglass
 give @a[tag=cat] ender_pearl 16
 give @a[tag=cat] snowball 16
+give @a[tag=cat] bow
+give @a[tag=cat] arrow 32 39
 replaceitem entity @a[tag=cat] slot.armor.head 1 turtle_helmet
 replaceitem entity @a[tag=cat] slot.armor.chest 1 elytra
