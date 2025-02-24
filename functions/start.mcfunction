@@ -2,6 +2,7 @@
 effect @a clear
 gamemode 2 @a
 tag @r add cat
+scoreboard players set @a[tag=!cat] d2 0
 function cat/effect
 function player/effect
 function cat/tp
